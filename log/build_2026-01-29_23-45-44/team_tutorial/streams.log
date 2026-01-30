@@ -1,0 +1,36 @@
+[0.540s] Invoking command in '/home/angelyna/roboracer_ws/src/team_tutorial': PYTHONPATH=/home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/team_tutorial build --build-base /home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/build install --record /home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/install.log --single-version-externally-managed install_data
+[0.665s] running egg_info
+[0.666s] creating build/team_tutorial/team_tutorial.egg-info
+[0.668s] writing build/team_tutorial/team_tutorial.egg-info/PKG-INFO
+[0.678s] writing dependency_links to build/team_tutorial/team_tutorial.egg-info/dependency_links.txt
+[0.682s] writing entry points to build/team_tutorial/team_tutorial.egg-info/entry_points.txt
+[0.687s] writing requirements to build/team_tutorial/team_tutorial.egg-info/requires.txt
+[0.689s] writing top-level names to build/team_tutorial/team_tutorial.egg-info/top_level.txt
+[0.692s] writing manifest file 'build/team_tutorial/team_tutorial.egg-info/SOURCES.txt'
+[0.701s] reading manifest file 'build/team_tutorial/team_tutorial.egg-info/SOURCES.txt'
+[0.702s] adding license file 'LICENSE'
+[0.703s] writing manifest file 'build/team_tutorial/team_tutorial.egg-info/SOURCES.txt'
+[0.704s] running build
+[0.704s] running build_py
+[0.705s] creating /home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/build
+[0.708s] creating /home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/build/lib
+[0.711s] creating /home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/build/lib/team_tutorial
+[0.712s] copying team_tutorial/__init__.py -> /home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/build/lib/team_tutorial
+[0.728s] running install
+[0.729s] running install_lib
+[0.733s] creating /home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/lib/python3.10/site-packages/team_tutorial
+[0.735s] copying /home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/build/lib/team_tutorial/__init__.py -> /home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/lib/python3.10/site-packages/team_tutorial
+[0.751s] byte-compiling /home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/lib/python3.10/site-packages/team_tutorial/__init__.py to __init__.cpython-310.pyc
+[0.772s] running install_data
+[0.774s] creating /home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/share/ament_index
+[0.777s] creating /home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/share/ament_index/resource_index
+[0.779s] creating /home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/share/ament_index/resource_index/packages
+[0.781s] copying resource/team_tutorial -> /home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/share/ament_index/resource_index/packages
+[0.796s] copying package.xml -> /home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/share/team_tutorial
+[0.811s] running install_egg_info
+[0.816s] Copying build/team_tutorial/team_tutorial.egg-info to /home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/lib/python3.10/site-packages/team_tutorial-0.0.0-py3.10.egg-info
+[0.991s] running install_scripts
+[1.017s] Installing node_a script to /home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/lib/team_tutorial
+[1.037s] Installing node_b script to /home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/lib/team_tutorial
+[1.055s] writing list of installed files to '/home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/install.log'
+[1.080s] Invoked command in '/home/angelyna/roboracer_ws/src/team_tutorial' returned '0': PYTHONPATH=/home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/angelyna/roboracer_ws/src/team_tutorial/install/team_tutorial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/team_tutorial build --build-base /home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/build install --record /home/angelyna/roboracer_ws/src/team_tutorial/build/team_tutorial/install.log --single-version-externally-managed install_data
